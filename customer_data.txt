@@ -1,0 +1,20 @@
+101,Anu,Rajesh,22,Female,Kochi,India,Student
+102,Rahul,Suresh,35,Male,Delhi,India,Engineer
+103,Meera,Prakash,28,Female,London,UK,Doctor
+104,Vimal,Ramesh,55,Male,Mumbai,India,Business
+105,Akhil,Sunil,24,Male,Dubai,UAE,Engineer
+106,Anjali,Manoj,42,Female,Chennai,India,Teacher
+107,Arun,Das,61,Male,Manchester,UK,Doctor
+108,Neha,Ravi,19,Female,Bangalore,India,Student
+109,Kiran,Babu,31,Male,Doha,Qatar,Pilot
+110,Sneha,Krishnan,48,Female,Kochi,India,Doctor
+111,Nikhil,Joseph,52,Male,Abu Dhabi,UAE,Pilot
+112,Asha,Mohan,26,Female,Thrissur,India,Nurse
+113,Rohit,Ajay,38,Male,London,UK,Engineer
+114,Diya,Raj,45,Female,Delhi,India,Teacher
+115,Vivek,Pradeep,58,Male,Mumbai,India,Doctor
+116,Arya,Anil,21,Female,Kannur,India,Student
+117,Sanjay,Kumar,63,Male,Birmingham,UK,Business
+118,Pooja,Suresh,29,Female,Dubai,UAE,Nurse
+119,Ajith,Rajan,40,Male,Kozhikode,India,Pilot
+120,Lakshmi,Gopal,33,Female,Chennai,India,Engineer
